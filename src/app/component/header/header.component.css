@@ -1,0 +1,17 @@
+nav ul {
+  list-style: none;
+  /* float: left; */
+}
+ul li {
+  display: inline-block;
+  padding-right: 10px;
+}
+
+ul li a {
+  text-decoration: none;
+}
+
+header {
+  background: #ff0;
+  padding: 10px;
+}
